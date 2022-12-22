@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UgurEmreArikan_HW1</string>
+    <string name="brand_name1">LORD</string>
+    <string name="brand_name2">of QUIZ</string>
+    <string name="tiny">One quiz to rule them all ..</string>
+    <string name="SecondQuestion">2. In the movie "The Fellowship of the Ring," when the fellowship is in the Mines of Moria, who accidentally knocks a skeleton into a well, causing them to be attacked by orcs and a nasty cave troll?</string>
+    <string name="FourthQuestion">4. What is the name of Frodo’s sword that glows blue when orcs are near?</string>
+    <string name="FifthQuestion">5. What is the name of the Balrog that attacks the fellowship in the Mines of Moria?</string>
+    <string name="SixthQuestion">6. What is the name of the giant spider who tried to eat Frodo?</string>
+    <string name="EightQuestion">8. Which of the following are other names of Gandalf?</string>
+    <string name="unicodeRingSymbol">💍</string>
+
+</resources>
